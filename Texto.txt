@@ -1,0 +1,8 @@
+Tema do site: Cidade Campos do Jordão e dicas sobre viagem e culinária local
+
+Páginas
+
+- index.html: página principal
+- pontos_turisticos.html: página com texto sobre pontos turisticos
+- restaurante.html: página com texto sobre melhores restaurantes
+- form.html: página contendo o formulário de cadastro
